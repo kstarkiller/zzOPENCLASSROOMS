@@ -1,0 +1,154 @@
+﻿Country;Code;region_noHICgroup;IGM_Group_name;igm_group;igm_coeff
+Afghanistan;AFG;South Asia;Asia;4;0.5
+Angola;AGO;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Albania;ALB;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Argentina;ARG;Latin America & Caribbean;Latin America/Africa;5;0.66
+Armenia;ARM;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Australia;AUS;East Asia & Pacific;Australia/New Zealand/USA;3;0.4
+Austria;AUT;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Azerbaijan;AZE;Europe & Central Asia;Asia;4;0.5
+Burundi;BDI;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Belgium;BEL;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Benin;BEN;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Burkina Faso;BFA;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Bangladesh;BGD;South Asia;Asia;4;0.5
+Bulgaria;BGR;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Bosnia and Herzegovina;BIH;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Belarus;BLR;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Bolivia;BOL;Latin America & Caribbean;Latin America/Africa;5;0.66
+Brazil;BRA;Latin America & Caribbean;Latin America/Africa;5;0.66
+Bhutan;BTN;South Asia;Asia;4;0.5
+Botswana;BWA;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Central African Republic;CAF;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Canada;CAN;North America;Nordic European countries and Canada;1;0.2
+Switzerland;CHE;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Chile;CHL;Latin America & Caribbean;Latin America/Africa;5;0.66
+China;CHN;East Asia & Pacific;Asia;4;0.5
+C√¥te d'Ivoire;CIV;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Cameroon;CMR;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Congo;COD;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Congo;COG;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Colombia;COL;Latin America & Caribbean;Latin America/Africa;5;0.66
+Comoros;COM;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Cabo Verde;CPV;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Costa Rica;CRI;Latin America & Caribbean;Latin America/Africa;5;0.66
+Cyprus;CYP;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Czech Republic;CZE;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Germany;DEU;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Djibouti;DJI;Middle East & North Africa;Latin America/Africa;5;0.66
+Denmark;DNK;Europe & Central Asia;Nordic European countries and Canada;1;0.2
+Dominican Republic;DOM;Latin America & Caribbean;Latin America/Africa;5;0.66
+Ecuador;ECU;Latin America & Caribbean;Latin America/Africa;5;0.66
+Egypt;EGY;Middle East & North Africa;Latin America/Africa;5;0.66
+Spain;ESP;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Estonia;EST;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Ethiopia;ETH;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Finland;FIN;Europe & Central Asia;Nordic European countries and Canada;1;0.2
+Fiji;FJI;East Asia & Pacific;Asia;4;0.5
+France;FRA;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Gabon;GAB;Sub-Saharan Africa;Latin America/Africa;5;0.66
+United Kingdom;GBR;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Georgia;GEO;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Ghana;GHA;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Guinea;GIN;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Gambia;GMB;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Guinea-Bissau;GNB;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Greece;GRC;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Guatemala;GTM;Latin America & Caribbean;Latin America/Africa;5;0.66
+Honduras;HND;Latin America & Caribbean;Latin America/Africa;5;0.66
+Croatia;HRV;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Haiti;HTI;Latin America & Caribbean;Latin America/Africa;5;0.66
+Hungary;HUN;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Indonesia;IDN;East Asia & Pacific;Asia;4;0.5
+India;IND;South Asia;Asia;4;0.5
+Ireland;IRL;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Iran;IRN;Middle East & North Africa;Asia;4;0.5
+Iraq;IRQ;Middle East & North Africa;Asia;4;0.5
+Iceland;ISL;Europe & Central Asia;Nordic European countries and Canada;1;0.2
+Israel;ISR;Middle East & North Africa;Asia;4;0.5
+Italy;ITA;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Jordan;JOR;Middle East & North Africa;Asia;4;0.5
+Japan;JPN;East Asia & Pacific;Asia;4;0.5
+Kazakhstan;KAZ;Europe & Central Asia;Asia;4;0.5
+Kenya;KEN;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Kyrgyz Republic;KGZ;Europe & Central Asia;Asia;4;0.5
+Cambodia;KHM;East Asia & Pacific;Asia;4;0.5
+Kiribati;KIR;East Asia & Pacific;Asia;4;0.5
+Korea;KOR;High-income economies;Asia;4;0.5
+Lao PDR;LAO;East Asia & Pacific;Asia;4;0.5
+Lebanon;LBN;Middle East & North Africa;Asia;4;0.5
+Liberia;LBR;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Sri Lanka;LKA;South Asia;Asia;4;0.5
+Lesotho;LSO;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Lithuania;LTU;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Latvia;LVA;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Morocco;MAR;Middle East & North Africa;Latin America/Africa;5;0.66
+Moldova;MDA;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Madagascar;MDG;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Maldives;MDV;South Asia;Asia;4;0.5
+Mexico;MEX;Latin America & Caribbean;Latin America/Africa;5;0.66
+North Macedonia;MKD;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Mali;MLI;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Myanmar;MMR;East Asia & Pacific;Asia;4;0.5
+Montenegro;MNE;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Mongolia;MNG;East Asia & Pacific;Asia;4;0.5
+Mozambique;MOZ;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Mauritania;MRT;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Mauritius;MUS;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Malawi;MWI;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Malaysia;MYS;East Asia & Pacific;Asia;4;0.5
+Namibia;NAM;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Niger;NER;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Nigeria;NGA;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Nicaragua;NIC;Latin America & Caribbean;Latin America/Africa;5;0.66
+Netherlands;NLD;Europe & Central Asia;Nordic European countries and Canada;1;0.2
+Norway;NOR;Europe & Central Asia;Nordic European countries and Canada;1;0.2
+Nepal;NPL;South Asia;Asia;4;0.5
+New Zealand;NZL;East Asia & Pacific;Australia/New Zealand/USA;3;0.4
+Pakistan;PAK;South Asia;Asia;4;0.5
+Panama;PAN;Latin America & Caribbean;Latin America/Africa;5;0.66
+Peru;PER;Latin America & Caribbean;Latin America/Africa;5;0.66
+Philippines;PHL;East Asia & Pacific;Asia;4;0.5
+Papua New Guinea;PNG;East Asia & Pacific;Asia;4;0.5
+Poland;POL;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Portugal;PRT;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Paraguay;PRY;Latin America & Caribbean;Latin America/Africa;5;0.66
+West Bank and Gaza;PSE;Middle East & North Africa;Asia;4;0.5
+Romania;ROU;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Russian Federation;RUS;Europe & Central Asia;Asia;4;0.5
+Rwanda;RWA;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Sudan;SDN;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Senegal;SEN;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Solomon Islands;SLB;East Asia & Pacific;Asia;4;0.5
+Sierra Leone;SLE;Sub-Saharan Africa;Latin America/Africa;5;0.66
+El Salvador;SLV;Latin America & Caribbean;Latin America/Africa;5;0.66
+Serbia;SRB;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+South Sudan;SSD;Sub-Saharan Africa;Latin America/Africa;5;0.66
+S√£o Tom√© and Principe;STP;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Slovak Republic;SVK;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Slovenia;SVN;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Sweden;SWE;Europe & Central Asia;Nordic European countries and Canada;1;0.2
+Eswatini;SWZ;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Chad;TCD;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Togo;TGO;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Thailand;THA;East Asia & Pacific;Asia;4;0.5
+Tajikistan;TJK;Europe & Central Asia;Asia;4;0.5
+Timor-Leste;TLS;East Asia & Pacific;Asia;4;0.5
+Tonga;TON;East Asia & Pacific;Asia;4;0.5
+Tunisia;TUN;Middle East & North Africa;Latin America/Africa;5;0.66
+Turkey;TUR;Europe & Central Asia;Asia;4;0.5
+Tuvalu;TUV;East Asia & Pacific;Asia;4;0.5
+Taiwan;TWN;High-income economies;Asia;4;0.5
+Tanzania;TZA;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Uganda;UGA;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Ukraine;UKR;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Uruguay;URY;Latin America & Caribbean;Latin America/Africa;5;0.66
+United States;USA;North America;Australia/New Zealand/USA;3;0.4
+Uzbekistan;UZB;Europe & Central Asia;Asia;4;0.5
+Venezuela;VEN;Latin America & Caribbean;Latin America/Africa;5;0.66
+Vietnam;VNM;East Asia & Pacific;Asia;4;0.5
+Vanuatu;VUT;East Asia & Pacific;Asia;4;0.5
+Kosovo;XKX;Europe & Central Asia;Europe (except nordic countries) ;2;0.4
+Yemen;YEM;Middle East & North Africa;Asia;4;0.5
+South Africa;ZAF;Sub-Saharan Africa;Latin America/Africa;5;0.66
+Zambia;ZMB;Sub-Saharan Africa;Latin America/Africa;5;0.66
